@@ -1,26 +1,26 @@
-# 🌿 TracePass Final Project
+# TracePass Final Project
 
 TracePass, sürdürülebilir bir gelecek için geliştirilmiş, yapay zeka destekli bir doğa dostu yaşam rehberidir. QR kod analizi ve AI asistanı ile kullanıcıların ekolojik ayak izini azaltmalarına yardımcı olur.
 
 ---
 
-## 📸 Uygulama Ekran Görüntüleri
+## Uygulama Ekran Görüntüleri
 
 <p align="center">
   <img src="screenshots/app_1.png" width="300" alt="Ana Ekran" style="margin: 10px;">
   <img src="screenshots/app_2.png" width="300" alt="Luna Asistan" style="margin: 10px;">
 </p>
 
-> **Not:** Eğer resimlerin isimleri farklıysa (örneğin `resim1.jpg`), yukarıdaki `src="screenshots/app_1.png"` kısımlarını kendi dosya isimlerinle değiştirmeyi unutma!
+
 
 ---
 
-## ✨ Öne Çıkan Özellikler
+##  Öne Çıkan Özellikler
 
-* 🤖 **LUNA (AI Rehber):** Sürdürülebilirlik ve geri dönüşüm konusunda uzman, samimi bir yapay zeka asistanı.
-* 🔍 **Ekolojik Analiz:** Ürünlerin materyallerini ve doğa dostu olup olmadıklarını anında analiz eder.
-* ♻️ **Sıfır Atık Şefi:** Elinizdeki malzemelerle israfı önleyecek yaratıcı ve çevreci yemek tarifleri sunar.
-* 📊 **Eco-Score:** Ürünlerin çevreye etkisini puanlayarak bilinçli tüketimi teşvik eder.
+*  **LUNA (AI Rehber):** Sürdürülebilirlik ve geri dönüşüm konusunda uzman, samimi bir yapay zeka asistanı.
+* **Ekolojik Analiz:** Ürünlerin materyallerini ve doğa dostu olup olmadıklarını anında analiz eder.
+* **Sıfır Atık Şefi:** Elinizdeki malzemelerle israfı önleyecek yaratıcı ve çevreci yemek tarifleri sunar.
+* **Eco-Score:** Ürünlerin çevreye etkisini puanlayarak bilinçli tüketimi teşvik eder.
 
 ---
 
@@ -34,7 +34,7 @@ TracePass, sürdürülebilir bir gelecek için geliştirilmiş, yapay zeka deste
 
 ---
 
-## 🚀 Kurulum
+##  Kurulum
 
 Projeyi yerelinizde çalıştırmak için:
 
