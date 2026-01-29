@@ -4,16 +4,7 @@ TracePass, sürdürülebilir bir gelecek için geliştirilmiş, yapay zeka deste
 
 ---
 
-## Uygulama Ekran Görüntüleri
 
-<p align="center">
-  <img src="screenshots/app_1.png" width="300" alt="Ana Ekran" style="margin: 10px;">
-  <img src="screenshots/app_2.png" width="300" alt="Luna Asistan" style="margin: 10px;">
-</p>
-
-
-
----
 
 ##  Öne Çıkan Özellikler
 
@@ -24,7 +15,7 @@ TracePass, sürdürülebilir bir gelecek için geliştirilmiş, yapay zeka deste
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 * **Framework:** [Flutter](https://flutter.dev/) (Dart)
 * **Yapay Zeka:** Groq API (Llama 3.3 70B Model)
